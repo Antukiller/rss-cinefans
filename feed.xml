@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Novedades del Cine</title>
+  <link href="https://www.cinefans.com"/>
+  <updated>2025-05-20T10:00:00Z</updated>
+  <author>
+    <name>CineFans</name>
+  </author>
+  <id>https://www.cinefans.com/feed</id>
+
+  <entry>
+    <title>🎬 Estreno de "Galaxia Perdida"</title>
+    <link href="https://www.cinefans.com/galaxia"/>
+    <id>https://www.cinefans.com/galaxia</id>
+    <updated>2025-05-20T10:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[
+        <p><strong>Galaxia Perdida</strong> redefine el género de ciencia ficción con efectos visuales impresionantes y una historia envolvente.</p>
+        <img src="https://example.com/img/galaxia.jpg" alt="Galaxia Perdida" width="600"/>
+        <p><a href="https://www.cinefans.com/galaxia">Leer más</a></p>
+      ]]>
+    </summary>
+  </entry>
+
+  <entry>
+    <title>⭐ Top 5 películas del mes</title>
+    <link href="https://www.cinefans.com/top5"/>
+    <id>https://www.cinefans.com/top5</id>
+    <updated>2025-05-18T14:00:00Z</updated>
+    <summary type="html">
+      <![CDATA[
+        <ul>
+          <li>1. Galaxia Perdida</li>
+          <li>2. El Último Guardián</li>
+          <li>3. Voces del Silencio</li>
+          <li>4. El Eco del Tiempo</li>
+          <li>5. Alma</li>
+        </ul>
+        <img src="https://example.com/img/top5.jpg" alt="Top 5 Películas" width="600"/>
+        <p><a href="https://www.cinefans.com/top5">Ver ranking completo</a></p>
+      ]]>
+    </summary>
+  </entry>
+
+  <entry>
+    <title>🎥 Entrevista con la directora de "Alma"</title>
+    <link href="https://www.cinefans.com/entrevista"/>
+    <id>https://www.cinefans.com/entrevista</id>
+    <updated>2025-05-16T09:30:00Z</updated>
+    <summary type="html">
+      <![CDATA[
+        <p>Hablamos con <strong>Marina Gómez</strong>, directora de <em>Alma</em>, sobre el proceso creativo detrás de esta emotiva película.</p>
+        <img src="https://example.com/img/alma-directora.jpg" alt="Entrevista Marina Gómez" width="600"/>
+        <p><a href="https://www.cinefans.com/entrevista">Leer la entrevista completa</a></p>
+      ]]>
+    </summary>
+  </entry>
+</feed>
